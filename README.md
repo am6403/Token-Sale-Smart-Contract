@@ -35,3 +35,13 @@ Confirm the transaction.
 
 10)Purchase at Regular Price: Use the remaining funds to buy the remaining tokens at the regular price from participants who contributed during the presale.
 Confirm the transactions.
+
+# Pictures
+
+![contract 2](https://github.com/am6403/Token-Sale-Smart-Contract/assets/103773302/b8925558-ff95-4c8a-9693-d8a9cca93da6)
+![contract 1](https://github.com/am6403/Token-Sale-Smart-Contract/assets/103773302/f104db9a-b729-4d8a-947a-50f9138c3835)
+![code 2](https://github.com/am6403/Token-Sale-Smart-Contract/assets/103773302/14575dbf-e100-483c-a220-5e9c1a6820f6)
+![code 1](https://github.com/am6403/Token-Sale-Smart-Contract/assets/103773302/b5727f86-c3f3-40e2-af3a-1ac8393e19b9)
+
+
+
